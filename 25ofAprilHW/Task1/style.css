@@ -1,0 +1,24 @@
+.container{
+    background-color: #faf3ddd8;
+    height: 200vmax;
+    width: 1505px;
+    border: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.main{
+    padding-top: 50px;
+    text-align: center;
+    color: #48a9a6;
+    margin-left: 200px;
+    margin-right:200px;
+    border-bottom: #e4dfda solid;
+}
+.articles {
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.container h2{
+    color: #36cade;
+    font-style: italic;
+}

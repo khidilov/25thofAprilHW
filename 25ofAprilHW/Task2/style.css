@@ -1,0 +1,21 @@
+.container {
+    background-color: #3f9f61d8;
+    height: 200vmax;
+    width: 1505px;
+    border: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.socNetwork {
+    padding-top: 20px;
+    background-color: #fff;
+    width: 250px;
+    height: 400px;
+    text-align: center;
+    border-radius: 40px;
+    margin-left: 200px;
+}
+.profilePic img{
+    width: 168px;
+    height: 168px;
+    border-radius: 200px;
+}
